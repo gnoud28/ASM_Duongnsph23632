@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780589795400",
+    "project_id": "androinetwordking",
+    "storage_bucket": "androinetwordking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780589795400:android:3a7631fe1c2c98df68307d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780589795400-3sasgpfcnk3bs03hp89eao2cpvshp6v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOdNGUCLTQzS8VcEXQY7Lplb8q0e6r-iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780589795400-3sasgpfcnk3bs03hp89eao2cpvshp6v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
